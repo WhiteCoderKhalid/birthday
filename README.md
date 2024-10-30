@@ -16,10 +16,10 @@ A simple and responsive landing page that greets users on their birthday. This p
    ```bash
    git clone https://github.com/WhiteCoderKhalid/birthday.git
 
-2  **Navigate into the project folder:
+2  **Navigate into the project folder: **
 cd birthday-greeting-landing-page
 
-3 ** File Structure
+3 ** File Structure **
 .
 ├── index.html         # Main HTML file
 ├── style.css          # CSS for styling the page
@@ -27,7 +27,7 @@ cd birthday-greeting-landing-page
 └── README.md          # Project documentation
 
 
-4 **Technologies Used
+4 **Technologies Used **
 HTML: For creating the structure of the landing page.
 CSS: For styling the page, including layout, fonts, and colors.
 JavaScript: Displaying the birthday greeting with some functionality.
